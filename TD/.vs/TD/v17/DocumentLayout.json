@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project_TD\\TD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\project_TD\\TD\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\project_TD\\TD\\ConsoleApplication1\\td_tool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\td_tool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\project_TD\\TD\\ConsoleApplication1\\td_figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\td_figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\project_TD\\TD\\ConsoleApplication1\\td_tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\td_tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\project_TD\\TD\\ConsoleApplication1\\td_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E73C3A53-94C5-4EE1-88FF-B9A25764D929}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\td_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 354,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "D:\\project_TD\\TD\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "D:\\project_TD\\TD\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwFYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T13:07:49.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "td_tool.cpp",
+              "DocumentMoniker": "D:\\project_TD\\TD\\ConsoleApplication1\\td_tool.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\td_tool.cpp",
+              "ToolTip": "D:\\project_TD\\TD\\ConsoleApplication1\\td_tool.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\td_tool.cpp",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T11:33:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "td_tool.h",
+              "DocumentMoniker": "D:\\project_TD\\TD\\ConsoleApplication1\\td_tool.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\td_tool.h",
+              "ToolTip": "D:\\project_TD\\TD\\ConsoleApplication1\\td_tool.h",
+              "RelativeToolTip": "ConsoleApplication1\\td_tool.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T11:32:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "td_figure.h",
+              "DocumentMoniker": "D:\\project_TD\\TD\\ConsoleApplication1\\td_figure.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\td_figure.h",
+              "ToolTip": "D:\\project_TD\\TD\\ConsoleApplication1\\td_figure.h",
+              "RelativeToolTip": "ConsoleApplication1\\td_figure.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T11:31:57.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "td_enemy.h",
+              "DocumentMoniker": "D:\\project_TD\\TD\\ConsoleApplication1\\td_enemy.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\td_enemy.h",
+              "ToolTip": "D:\\project_TD\\TD\\ConsoleApplication1\\td_enemy.h",
+              "RelativeToolTip": "ConsoleApplication1\\td_enemy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T11:30:01.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
